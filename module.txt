@@ -1,0 +1,14 @@
+{
+    "id": "Indicators",
+    "version": "1.0.0",
+    "author": "niksoc",
+    "displayName": "Indicators",
+    "description": "Pop ups over entities",
+    "dependencies": [
+        {
+            "id" : "Core",
+            "minVersion" : "1.0.0"
+        } 
+     ],
+    "serverSideOnly": false
+}
