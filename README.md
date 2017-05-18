@@ -1,13 +1,19 @@
-# Indicators
+Indicators
+==========
 
 A pop-up over an entity's head that can be used to give some information about the entity. For eg, when used on an AI, whether it is puzzled, hostile, sleeping etc.
-
+![](/images/indicator.png)
 
 ## Available Indicators
 
 1. Exclamation
+![](/assets/textures/exclamationIndicator.png)
+
 2. Question
+![](/assets/textures/questionIndicator.png) (it's inverted on purpose)
+
 3. Knocked Out
+![](/assets/textures/knockedOutIndicator.png)
 
 ## Usage
 
